@@ -8,7 +8,9 @@ I am a aspiring software developer at Florida State University. I am currently p
 #### Do Not Resusitate: 
 A game made for my Software Engineering course. This game aims to combine aspects of tower defense games, while fitting a medical theme. The goal of this project is to demonstrate our groups proficency in planning and developing a project from scratch. This project was made in the Unity engine, utalizing packages such as Cinamachine. This project has a goal completion date of December 2023. My contributions range from: creating UML models for development, creating artwork using pixel art software, creating the movement system, as well as many other features within the game. 
 
-#### Sheet-To-Excel
+#### Sheet-To-Excel <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AMicrosoft_Office_Excel_%25282019%25E2%2580%2593present%2529.svg&psig=AOvVaw1n07Clj8qUDMFTt47NBMIE&ust=1698341756128000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjpo9vekYIDFQAAAAAdAAAAABAE" width="50" height="50" alt="Excel Logo">
+
+
 This software is currently being developed souly by me. This project aims to automate the conversion between job applications (mainly in pdf format) to excel sheets for a non profit. This project is being developed in python. Within this project I have developed my skills within pythons libraries, as well as my understanding of data processing. This software is expected to be published for free within this year, 2023.
 
 

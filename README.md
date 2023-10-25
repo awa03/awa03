@@ -17,7 +17,7 @@ This software is currently being developed souly by me. This project aims to aut
 
 ### Statistics 
 
-[![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=awa03)](https://github.com/anuraghazra/github-readme-stats)
+[![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=awa03)icons=true&theme=radical](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **awa03/awa03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

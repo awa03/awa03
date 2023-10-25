@@ -14,6 +14,8 @@ A game made for my Software Engineering course. This game aims to combine aspect
 This software is currently being developed souly by me. This project aims to automate the conversion between job applications (mainly in pdf format) to excel sheets for a non profit. This project is being developed in python. Within this project I have developed my skills within pythons libraries, as well as my understanding of data processing. This software is expected to be published for free within this year, 2023.
 
 
+[![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=awa03)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **awa03/awa03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

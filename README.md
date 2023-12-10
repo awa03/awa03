@@ -11,7 +11,7 @@ A game made for my Software Engineering course. This game aims to combine aspect
 #### Sheet-To-Excel <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="25" height="25" alt="Excel Logo">
 
 
-This software is currently being developed souly by me. This project aims to automate the conversion between job applications (mainly in pdf format) to excel sheets for a non profit. This project is being developed in python. Within this project I have developed my skills within pythons libraries, as well as my understanding of data processing. This software is expected to be published for free within this year, 2023.
+This software is currently being developed souly by me. This project aims to automate the conversion between job applications (mainly in pdf format) to excel sheets for a non profit. This project is being developed in c++. Within this project I have developed my skills within c++ libraries, as well as my understanding of data processing. This software is expected to be published for free within this year, 2023.
 
 ****
 

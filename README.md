@@ -13,6 +13,9 @@ A game made for my Software Engineering course. This game aims to combine aspect
 
 This software is currently being developed souly by me. This project aims to automate the conversion between job applications (mainly in pdf format) to excel sheets for a non profit. This project is being developed in c++. Within this project I have developed my skills within c++ libraries, as well as my understanding of data processing. This software is expected to be published for free within this year, 2023.
 
+#### Maze Solving
+I have een having fun working with maze solving algorithms as of late, so I decided to challenge myself to visualize them. I used python and the required librarys in order to complete this task. The mazes can be built and tested by the user. 
+
 ****
 
 ### Statistics 

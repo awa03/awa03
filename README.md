@@ -8,7 +8,7 @@ I am a aspiring software developer at Florida State University. I am currently p
 #### Do Not Resusitate: 
 A game made for my Software Engineering course. This game aims to combine aspects of tower defense games, while fitting a medical theme. The goal of this project is to demonstrate our groups proficency in planning and developing a project from scratch. This project was made in the Unity engine, utalizing packages such as Cinamachine. This project has a goal completion date of December 2023. My contributions range from: creating UML models for development, creating artwork using pixel art software, creating the movement system, as well as many other features within the game. 
 
-#### Form-To-Sheet <img src="https://static.vecteezy.com/system/resources/previews/027/179/355/non_2x/google-sheet-spreadsheet-icon-logo-symbol-free-png.png" width="20" height="20" alt="Sheets Logo">
+#### FormFiller <img src="https://static.vecteezy.com/system/resources/previews/027/179/355/non_2x/google-sheet-spreadsheet-icon-logo-symbol-free-png.png" width="20" height="20" alt="Sheets Logo">
 I am the sole developer working on the development of this software. The primary goal of this project is to automate the seamless conversion of forms into a spreadsheet. It is being crafted for a specific company, showcasing my expertise in utilizing the Google Cloud API. The development process has been enjoyable, and I anticipate making it publicly available in early January 2024.
 
 #### Maze Solving

@@ -8,13 +8,11 @@ I am a aspiring software developer at Florida State University. I am currently p
 #### Do Not Resusitate: 
 A game made for my Software Engineering course. This game aims to combine aspects of tower defense games, while fitting a medical theme. The goal of this project is to demonstrate our groups proficency in planning and developing a project from scratch. This project was made in the Unity engine, utalizing packages such as Cinamachine. This project has a goal completion date of December 2023. My contributions range from: creating UML models for development, creating artwork using pixel art software, creating the movement system, as well as many other features within the game. 
 
-#### Sheet-To-Excel <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="25" height="25" alt="Excel Logo">
-
-
-This software is currently being developed souly by me. This project aims to automate the conversion between job applications (mainly in pdf format) to excel sheets for a non profit. This project is being developed in c++. Within this project I have developed my skills within c++ libraries, as well as my understanding of data processing. This software is expected to be published for free within this year, 2023.
+#### Form-To-Sheet <img src="https://static.vecteezy.com/system/resources/previews/027/179/355/non_2x/google-sheet-spreadsheet-icon-logo-symbol-free-png.png" width="35" height="35" alt="Sheets Logo">
+I am the sole developer working on the development of this software. The primary goal of this project is to automate the seamless conversion of forms into a spreadsheet. It is being crafted for a specific company, showcasing my expertise in utilizing the Google Cloud API. The development process has been enjoyable, and I anticipate making it publicly available in early January 2024.
 
 #### Maze Solving
-I have een having fun working with maze solving algorithms as of late, so I decided to challenge myself to visualize them. I used python and the required librarys in order to complete this task. The mazes can be built and tested by the user. 
+I have been having fun working with maze solving algorithms as of late, so I decided to challenge myself to visualize them. I used python and the required librarys in order to complete this task. The mazes can be built and tested by the user. 
 
 ****
 

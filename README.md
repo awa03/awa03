@@ -11,8 +11,8 @@ A game made for my Software Engineering course. This game aims to combine aspect
 #### FormFiller <img src="https://static.vecteezy.com/system/resources/previews/027/179/355/non_2x/google-sheet-spreadsheet-icon-logo-symbol-free-png.png" width="20" height="20" alt="Sheets Logo">
 I am the sole developer working on the development of this software. The primary goal of this project is to automate the seamless conversion of forms into a spreadsheet. It is being crafted for a specific company, showcasing my expertise in utilizing the Google Cloud API. The development process has been enjoyable, and I anticipate making it publicly available in early January 2024.
 
-#### Maze Solving
-I have been having fun working with maze solving algorithms as of late, so I decided to challenge myself to visualize them. I used python and the required librarys in order to complete this task. The mazes can be built and tested by the user. 
+#### Canvas
+I have been taking on the project of recreating the popular school grade application canvas. Through this project I hope to gain expirence in C#, as well as maui, and the REST API. This project will be most first fully fledged fullstack application, and I am excited to continue the development in the future. 
 
 ****
 

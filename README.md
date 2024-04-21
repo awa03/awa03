@@ -1,21 +1,25 @@
 ### Hi there 👋
 
-I am a aspiring software developer at Florida State University. I am currently persuing a Computer Science degree, as well as a minor in Philosphy of Science. I am currently a Junior, and anticipate my graduation to be in spring of 2025. 
+I am an aspiring software developer at Florida State University. I am currently pursuing a Computer Science degree, as well as a minor in philosophy of Science. I am currently a Junior and anticipate my graduation to be in the spring of 2025. 
 ****
 
+ ## 🔗 Links
+ <a href="https://medium.com/@4376340/list/my-blog-31a894d61c1c" target="_blank"><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3218650/medium-icon-md.png" alt="Blog" width="50" height="50"></a>
+
+
 ### 🔭 I’m currently working on ...
+
+#### [Canvas](https://github.com/awa03/Canvas)
+I have been taking on the project of recreating the popular school grade application canvas. Through this project I hope to gain experience in C#, as well as Maui, and the REST API. This project will be most first fully-fledged full-stack application, and I am excited to continue the development in the future. 
 
 #### [German-Quiz-Game](https://github.com/awa03/German-Quiz-Game):
 German Quiz Master is a simple yet effective quiz game designed to help you study for your German class using Dear PyGUI and Python. Whether you're a beginner learning the basics or an advanced learner looking to polish your skills, this interactive game offers an engaging way to practice German vocabulary, grammar, and comprehension.
 
 #### [Do Not Resusitate](https://github.com/amm18z/Do_Not_Resuscitate): 
-A game made for my Software Engineering course. This game aims to combine aspects of tower defense games, while fitting a medical theme. The goal of this project is to demonstrate our groups proficency in planning and developing a project from scratch. This project was made in the Unity engine, utalizing packages such as Cinamachine. This project has a goal completion date of December 2023. My contributions range from: creating UML models for development, creating artwork using pixel art software, creating the movement system, as well as many other features within the game. 
+A game made for my Software Engineering course. This game aims to combine aspects of tower defense games while fitting a medical theme. The goal of this project is to demonstrate our group's proficiency in planning and developing a project from scratch. This project was made in the Unity engine, utilizing packages such as Cinamachine. This project has a goal completion date of December 2023. My contributions range from creating UML models for development, creating artwork using pixel art software, creating the movement system, as well as many other features within the game. 
 
 #### [Computer-Science-Notes](https://github.com/awa03/Computer-Science-Notes)
-This repository is a collection of the majority of my notes as a computer science student. I challenged myself to create a user friendly platform in which the notes can be viewed. In the process of creating this site I learned Jerkyll as well as mark down syntax. I have been using Obsidian for my note taking for the last year and a half, but felt as though I wanted to be able to access my notes from anywhere, without dealing with downloading the files or viewing them in github (Previously FSU Notes repo). My solution was to create a static site in which the user can view the notes from. Within these notes I have also included notes from my self studying. 
-
-#### [Canvas](https://github.com/awa03/Canvas)
-I have been taking on the project of recreating the popular school grade application canvas. Through this project I hope to gain expirence in C#, as well as maui, and the REST API. This project will be most first fully fledged fullstack application, and I am excited to continue the development in the future. 
+This repository is a collection of the majority of my notes as a computer science student. I challenged myself to create a user friendly platform in which the notes can be viewed. In the process of creating this site, I learned Jerkyll as well as mark-down syntax. I have been using Obsidian for my note-taking for the last year and a half but felt as though I wanted to be able to access my notes from anywhere, without dealing with downloading the files or viewing them in GitHub (Previously FSU Notes repo). My solution was to create a static site in which the user could view the notes from. Within these notes, I have also included notes from my self-study. 
 
 ****
 

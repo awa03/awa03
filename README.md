@@ -15,8 +15,8 @@ I am an aspiring software developer at Florida State University. I am currently 
 #### [Canvas](https://github.com/awa03/Canvas)
 I have been taking on the project of recreating the popular school grade application canvas. Through this project I hope to gain experience in C#, as well as Maui, and the REST API. This project will be most first fully-fledged full-stack application, and I am excited to continue the development in the future. 
 
-#### [German-Quiz-Game](https://github.com/awa03/German-Quiz-Game):
-German Quiz Master is a simple yet effective quiz game designed to help you study for your German class using Dear PyGUI and Python. Whether you're a beginner learning the basics or an advanced learner looking to polish your skills, this interactive game offers an engaging way to practice German vocabulary, grammar, and comprehension.
+#### [Sky Editor](https://github.com/awa03/Sky-Editor)
+This project is my attempt at creating an editor for my daily use. I used c++ for this project, combined with QT (for displaying). I hope to transform this project into a full IDE. 
 
 #### [Do Not Resusitate](https://github.com/amm18z/Do_Not_Resuscitate): 
 A game made for my Software Engineering course. This game aims to combine aspects of tower defense games while fitting a medical theme. The goal of this project is to demonstrate our group's proficiency in planning and developing a project from scratch. This project was made in the Unity engine, utilizing packages such as Cinamachine. This project has a goal completion date of December 2023. My contributions range from creating UML models for development, creating artwork using pixel art software, creating the movement system, as well as many other features within the game. 

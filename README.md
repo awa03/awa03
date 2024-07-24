@@ -18,8 +18,8 @@ I have been taking on the project of recreating the popular school grade applica
 #### [Sky Editor](https://github.com/awa03/Sky-Editor)
 This project is my attempt at creating an editor for my daily use. I used c++ for this project, combined with QT (for displaying). I hope to transform this project into a full IDE. 
 
-#### [Do Not Resusitate](https://github.com/amm18z/Do_Not_Resuscitate): 
-A game made for my Software Engineering course. This game aims to combine aspects of tower defense games while fitting a medical theme. The goal of this project is to demonstrate our group's proficiency in planning and developing a project from scratch. This project was made in the Unity engine, utilizing packages such as Cinamachine. This project has a goal completion date of December 2023. My contributions range from creating UML models for development, creating artwork using pixel art software, creating the movement system, as well as many other features within the game. 
+#### [Ray Tracer](): 
+Leveraging my knowledge of C++, I implemented color rendering and utilized my understanding of data structures and vector algebra to enhance the functionality and performance of the ray tracer. This experience not only solidified my programming skills but also expanded my proficiency in applying mathematical concepts to real-world problems.
 
 #### [Computer-Science-Notes](https://github.com/awa03/Computer-Science-Notes)
 This repository is a collection of the majority of my notes as a computer science student. I challenged myself to create a user friendly platform in which the notes can be viewed. In the process of creating this site, I learned Jerkyll as well as mark-down syntax. I have been using Obsidian for my note-taking for the last year and a half but felt as though I wanted to be able to access my notes from anywhere, without dealing with downloading the files or viewing them in GitHub (Previously FSU Notes repo). My solution was to create a static site in which the user could view the notes from. Within these notes, I have also included notes from my self-study. 

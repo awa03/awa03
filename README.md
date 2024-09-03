@@ -18,7 +18,7 @@ I have been taking on the project of recreating the popular school grade applica
 #### [Sky Editor](https://github.com/awa03/Sky-Editor)
 This project is my attempt at creating an editor for my daily use. I used c++ for this project, combined with QT (for displaying). I hope to transform this project into a full IDE. 
 
-#### [Ray Tracer](): 
+#### [Ray Tracer](https://github.com/awa03/RayTracer): 
 Leveraging my knowledge of C++, I implemented color rendering and utilized my understanding of data structures and vector algebra to enhance the functionality and performance of the ray tracer. This experience not only solidified my programming skills but also expanded my proficiency in applying mathematical concepts to real-world problems.
 
 #### [Computer-Science-Notes](https://github.com/awa03/Computer-Science-Notes)

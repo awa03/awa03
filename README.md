@@ -30,6 +30,7 @@ This repository is a collection of the majority of my notes as a computer scienc
 
 ![Aidens's GitHub stats](https://github-readme-stats.vercel.app/api?username=awa03&show_icons=true&theme=transparent)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/aidenall3n)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=awa03&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>

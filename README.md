@@ -26,12 +26,18 @@ This repository is a collection of the majority of my notes as a computer scienc
 
 ****
 
-### Statistics 
+### Github Statistics 
 
 ![Aidens's GitHub stats](https://github-readme-stats.vercel.app/api?username=awa03&show_icons=true&theme=transparent) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=awa03&theme=transparent&size_weight=0&count_weight=1&langs_count=8&layout=donut) <br>
-![Leetcode Stats](https://leetcard.jacoblin.cool/aidenall3n?width=495&height=200) <br>
 
+### Last Week Time 
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=awa03&theme=transparent&size_weight=0&count_weight=1&langs_count=8&layout=donut) <br>
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awa03&hide=javascript,html,css,aidl,batchfile,llvm,shell,powershell,makefile,cmake,java,tex,roff,ASP.NET,c&langs_count=8&weight=1&layout=compact&size_weight=0&count_weight=1&theme=transparent)<br>
+
+### Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/aidenall3n?width=495&height=200) <br>
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an aspiring software developer at Florida State University. I am currently pursuing a Computer Science degree, as well as a minor in philosophy of Science. I am currently a Junior and anticipate my graduation to be in the spring of 2025. 
+I am an aspiring software developer at Florida State University. I am currently pursuing a Computer Science degree, as well as a minor in philosophy of Science. I am currently a Junior and anticipate my graduation to be in the summer of 2025. 
 ****
 
  ## 🔗 Links
@@ -12,11 +12,8 @@ I am an aspiring software developer at Florida State University. I am currently 
 
 ### 🔭 I’m currently working on ...
 
-#### [Canvas](https://github.com/awa03/Canvas)
-I have been taking on the project of recreating the popular school grade application canvas. Through this project I hope to gain experience in C#, as well as Maui, and the REST API. This project will be most first fully-fledged full-stack application, and I am excited to continue the development in the future. 
-
-#### [Sky Editor](https://github.com/awa03/Sky-Editor)
-This project is my attempt at creating an editor for my daily use. I used c++ for this project, combined with QT (for displaying). I hope to transform this project into a full IDE. 
+#### [Meow-Chat](https://github.com/awa03/meow-chat/tree/master)
+A straightforward chat interface utilizing a RESTful API, developed in Go and integrated with a Python Flask application.
 
 #### [Ray Tracer](https://github.com/awa03/RayTracer): 
 Leveraging my knowledge of C++, I implemented color rendering and utilized my understanding of data structures and vector algebra to enhance the functionality and performance of the ray tracer. This experience not only solidified my programming skills but also expanded my proficiency in applying mathematical concepts to real-world problems.

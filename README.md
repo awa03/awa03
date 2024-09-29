@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/3e4d129f-58c6-4bb3-b489-4b3a0d90742e.svg)](https://wakatime.com/@3e4d129f-58c6-4bb3-b489-4b3a0d90742e)
 
 I am an aspiring software developer at Florida State University. I am currently pursuing a Computer Science degree, as well as a minor in philosophy of Science. I am currently a Junior and anticipate my graduation to be in the summer of 2025. 
 ****

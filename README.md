@@ -30,7 +30,7 @@ This repository is a collection of the majority of my notes as a computer scienc
 
 ![Aidens's GitHub stats](https://github-readme-stats.vercel.app/api?username=awa03&show_icons=true&theme=transparent) <br>
 
-### Time 
+### Time Spent Since September 24th, 2024
 ![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=awa03&theme=transparent&size_weight=0&count_weight=1&langs_count=8&layout=donut) <br>
 
 ### Top Languages

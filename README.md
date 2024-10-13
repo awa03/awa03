@@ -15,8 +15,14 @@ I am an aspiring software developer at Florida State University. I am currently 
 
 #### [Meow-Chat](https://github.com/awa03/meow-chat/tree/master)
 A straightforward chat interface utilizing a RESTful API, developed in Go and integrated with a Python Flask application.
+Chat with your friends, and enjoy the safety and security of Meow Chat. 
 
- Chat with your friends, and enjoy the saftey and security of meow chat. NO LOGIN REQUIRED, WITH DATA PERSISTENCE
+**All Tools Used**
+- Go, Rest API
+- Python, Flask
+- HTML / CSS / JS
+- Rust, For CLI
+- C#, For Native Application
 
 #### [Ray Tracer](https://github.com/awa03/RayTracer): 
 Leveraging my knowledge of C++, I implemented color rendering and utilized my understanding of data structures and vector algebra to enhance the functionality and performance of the ray tracer. This experience not only solidified my programming skills but also expanded my proficiency in applying mathematical concepts to real-world problems.

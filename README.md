@@ -16,8 +16,6 @@ I am an aspiring software developer at Florida State University. I am currently 
 #### [Meow-Chat](https://github.com/awa03/meow-chat/tree/master)
 A straightforward chat interface utilizing a RESTful API, developed in Go and integrated with a Python Flask application.
 Chat with your friends, and enjoy the safety and security of Meow Chat. 
-
-**All Tools Used**
 - Go, Rest API
 - Python, Flask
 - HTML / CSS / JS

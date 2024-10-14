@@ -21,6 +21,7 @@ Chat with your friends, and enjoy the safety and security of Meow Chat.
 - HTML / CSS / JS
 - Rust, For CLI
 - C#, For Native Application
+- MongoDB, Database
 
 #### [Ray Tracer](https://github.com/awa03/RayTracer): 
 Leveraging my knowledge of C++, I implemented color rendering and utilized my understanding of data structures and vector algebra to enhance the functionality and performance of the ray tracer. This experience not only solidified my programming skills but also expanded my proficiency in applying mathematical concepts to real-world problems.

@@ -13,18 +13,9 @@ I am an aspiring software developer at Florida State University. I am currently 
 
 ### 🔭 I’m currently working on ...
 
-#### [Meow-Chat](https://github.com/awa03/meow-chat/tree/master)
-A straightforward chat interface utilizing a RESTful API, developed in Go and integrated with a Python Flask application.
-Chat with your friends, and enjoy the safety and security of Meow Chat. 
-- Go, Rest API
-- Python, Flask
-- HTML / CSS / JS
-- Rust, For CLI
-- C#, For Native Application
-- MongoDB, Database
-
-#### [Ray Tracer](https://github.com/awa03/RayTracer): 
-Leveraging my knowledge of C++, I implemented color rendering and utilized my understanding of data structures and vector algebra to enhance the functionality and performance of the ray tracer. This experience not only solidified my programming skills but also expanded my proficiency in applying mathematical concepts to real-world problems.
+### Chess-AI
+This project will be a fully functional recreation of the game of chess. Within this subject I will have a variety of AI implementations that you can train and play against. 
+Including both a model using reinforcement learning, and a minimax algorithm. This project will be implemented in C++ using the SFML library for graphics processing.
 
 #### [Computer-Science-Notes](https://github.com/awa03/Computer-Science-Notes)
 This repository is a collection of the majority of my notes as a computer science student. I challenged myself to create a user friendly platform in which the notes can be viewed. In the process of creating this site, I learned Jerkyll as well as mark-down syntax. I have been using Obsidian for my note-taking for the last year and a half but felt as though I wanted to be able to access my notes from anywhere, without dealing with downloading the files or viewing them in GitHub (Previously FSU Notes repo). My solution was to create a static site in which the user could view the notes from. Within these notes, I have also included notes from my self-study. 

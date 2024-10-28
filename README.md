@@ -13,7 +13,7 @@ I am an aspiring software developer at Florida State University. I am currently 
 
 ### 🔭 I’m currently working on ...
 
-### Chess-AI
+#### [Chess-AI](https://github.com/awa03/Chess-AI)
 This project will be a fully functional recreation of the game of chess. Within this subject I will have a variety of AI implementations that you can train and play against. 
 Including both a model using reinforcement learning, and a minimax algorithm. This project will be implemented in C++ using the SFML library for graphics processing.
 

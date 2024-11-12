@@ -14,15 +14,21 @@ I am an aspiring software developer at Florida State University. I am currently 
 ### 🔭 I’m currently working on ...
 
 #### [Chess-AI](https://github.com/awa03/Chess-AI)
-This project will be a fully functional recreation of the game of chess. Within this subject I will have a variety of AI implementations that you can train and play against. 
-Including both a model using reinforcement learning, and a minimax algorithm. This project will be implemented in C++ using the SFML library for graphics processing.
+This project will be a fully functional recreation of the game of chess. Within this subject, I will have a variety of AI implementations that you can train and play against. 
+Including both a model using reinforcement learning, and a minimax algorithm. This project will be implemented in C++ using the SFML library for graphics processing. This project will be completed by
+mid-2025
+
+#### [Fhat](https://github.com/awa03/fhat)
+This project is my attempt to recreate the functionality of git. This project will be less efficient, and effective than git. This project is being developed in c++
+language and it will be free and open source. This will be the main focus of my project work outside of the chess AI, since that project is extremely complicated. This project
+will hopefully be completed by mid/early 2025.
 
 #### [Sky-Lang](https://github.com/awa03/sky-lang)
 This project will be more of a focus once the Chess-AI project is fully complete. This project will be an Interpreter, written in C++, in order to learn more about 
-programming languages and the ways in which languages are written. This project will be a big one, expect its completion to be in mid 2025.
+programming languages and the ways in which languages are written. This project will be a big one, expect its completion to be in mid/late 2025.
 
 #### [Computer-Science-Notes](https://github.com/awa03/Computer-Science-Notes)
-This repository is a collection of the majority of my notes as a computer science student. I challenged myself to create a user friendly platform in which the notes can be viewed. In the process of creating this site, I learned Jerkyll as well as mark-down syntax. I have been using Obsidian for my note-taking for the last year and a half but felt as though I wanted to be able to access my notes from anywhere, without dealing with downloading the files or viewing them in GitHub (Previously FSU Notes repo). My solution was to create a static site in which the user could view the notes from. Within these notes, I have also included notes from my self-study. 
+This repository is a collection of most of my notes as a computer science student. I challenged myself to create a user-friendly platform in which the notes can be viewed. In the process of creating this site, I learned Jerkyll and mark-down syntax. I have been using Obsidian for my note-taking for the last year and a half but felt as though I wanted to be able to access my notes from anywhere, without dealing with downloading the files or viewing them in GitHub (Previously FSU Notes repo). My solution was to create a static site in which the user could view the notes from. Within these notes, I have also included notes from my self-study. 
 
 ****
 

@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/3e4d129f-58c6-4bb3-b489-4b3a0d90742e.svg)](https://wakatime.com/@3e4d129f-58c6-4bb3-b489-4b3a0d90742e)
 
-I am an aspiring software developer at Florida State University. I am currently pursuing a Computer Science degree, as well as a minor in philosophy of Science. I am currently a Junior and anticipate my graduation to be in the summer of 2025. 
+I am an aspiring software developer at Florida State University. I am currently pursuing a Computer Science degree, as well as a minor in philosophy of Science. I am currently a Senior and anticipate my graduation to be in the summer of 2025. 
 
 ****
 
@@ -26,8 +26,7 @@ mid-2025
 
 #### [Fhat](https://github.com/awa03/fhat)
 This project is my attempt to recreate the functionality of git. This project will be less efficient, and effective than git. This project is being developed in c++
-language and it will be free and open source. This will be the main focus of my project work outside of the chess AI, since that project is extremely complicated. This project
-will hopefully be completed by mid/early 2025.
+language and it will be free and open source. This will be the main focus of my project work outside of the chess AI, since that project is extremely complicated.
 
 #### [Sky-Lang](https://github.com/awa03/sky-lang)
 This project will be more of a focus once the Chess-AI project is fully complete. This project will be an Interpreter, written in C++, in order to learn more about 

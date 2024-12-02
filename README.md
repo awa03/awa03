@@ -5,10 +5,6 @@ I am an aspiring software developer at Florida State University. I am currently 
 
 ****
 
->[!IMPORTANT]
->Hey Young Engineers Students! If you are here for a project that you worked on with me in class check the [Demo Repository](https://github.com/awa03/DEMO)
-****
-
  ## 🔗 Links
  <p align="left"><a href="https://medium.com/@4376340/list/my-blog-31a894d61c1c" target="_blank"><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3218650/medium-icon-md.png" alt="Blog" width="50" height="50"></a>
   <a href="https://www.linkedin.com/in/aiden-allen-a7385421a/" target="_blank"><img src="http://www.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" alt="Blog" width="50" height="50"></a>

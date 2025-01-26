@@ -20,6 +20,9 @@ This project will be a fully functional recreation of the game of chess. Within 
 Including both a model using reinforcement learning, and a minimax algorithm. This project will be implemented in C++ using the SFML library for graphics processing. This project will be completed by
 mid-2025
 
+#### [Memory Mint](https://github.com/awa03/MemoryMint)
+Memory Mint is a simple yet powerful flashcard app powered by AI, designed to make learning effortless. It aims to deliver all the features of popular apps like Quizlet, without any cost to the user. Built using React, Typescript, and Go, Memory Mint offers a fast and efficient experience. The app will be available on all platforms and is fully dockerized for seamless deployment.
+
 #### [Computer-Science-Notes](https://github.com/awa03/Computer-Science-Notes)
 This repository is a collection of most of my notes as a computer science student. I challenged myself to create a user-friendly platform in which the notes can be viewed. In the process of creating this site, I learned Jerkyll and mark-down syntax. I have been using Obsidian for my note-taking for the last year and a half but felt as though I wanted to be able to access my notes from anywhere, without dealing with downloading the files or viewing them in GitHub (Previously FSU Notes repo). My solution was to create a static site in which the user could view the notes from. Within these notes, I have also included notes from my self-study. 
 

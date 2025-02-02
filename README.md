@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![wakatime](https://wakatime.com/badge/user/3e4d129f-58c6-4bb3-b489-4b3a0d90742e.svg)](https://wakatime.com/@3e4d129f-58c6-4bb3-b489-4b3a0d90742e)
 
 A dedicated researcher with a deep passion for data science and machine learning, demonstrated through work in
 deepfake detection and model training. Enjoys programming in C and C++, with strong technical skills and a continuous
@@ -33,9 +32,6 @@ This repository is a collection of most of my notes as a computer science studen
 ### Github Statistics 
 
 ![Aidens's GitHub stats](https://github-readme-stats.vercel.app/api?username=awa03&show_icons=true&theme=transparent) <br>
-
-### Time Spent Since September 24th, 2024
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=awa03&theme=transparent&size_weight=0&count_weight=1&langs_count=8&layout=donut) <br>
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awa03&hide=javascript,html,css,aidl,batchfile,llvm,shell,powershell,makefile,cmake,java,tex,roff,ASP.NET,c&langs_count=8&weight=1&layout=compact&size_weight=0&count_weight=1&theme=transparent)<br>

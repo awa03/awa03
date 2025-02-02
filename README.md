@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/3e4d129f-58c6-4bb3-b489-4b3a0d90742e.svg)](https://wakatime.com/@3e4d129f-58c6-4bb3-b489-4b3a0d90742e)
+<br>
 A dedicated researcher with a deep passion for data science and machine learning, demonstrated through work in
 deepfake detection and model training. Enjoys programming in C and C++, with strong technical skills and a continuous
 drive for learning, showcased through diverse projects, from full-stack development to AI-driven solutions.
@@ -34,7 +35,10 @@ This repository is a collection of most of my notes as a computer science studen
 ![Aidens's GitHub stats](https://github-readme-stats.vercel.app/api?username=awa03&show_icons=true&theme=transparent) <br>
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awa03&hide=javascript,html,css,aidl,batchfile,llvm,shell,powershell,makefile,cmake,java,tex,roff,ASP.NET,c&langs_count=8&weight=1&layout=compact&size_weight=0&count_weight=1&theme=transparent)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awa03&hide=javascript,html,css,aidl,batchfile,llvm,shell,powershell,makefile,cmake,java,tex,roff,ASP.NET,c&langs_count=8&weight=1&layout=compact&size_weight=0&count_weight=1&theme=transparent)<be>
+
+
+### Time Since Sept 24th, 2024
 
 ### Leetcode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/aidenall3n?width=495&height=200) <br>

@@ -39,6 +39,7 @@ This repository is a collection of most of my notes as a computer science studen
 
 
 ### Time Since Sept 24th, 2024
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=awa03&theme=transparent&size_weight=0&count_weight=1&langs_count=8&layout=donut) <be>
 
 ### Leetcode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/aidenall3n?width=495&height=200) <br>

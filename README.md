@@ -17,7 +17,7 @@ drive for learning, showcased through diverse projects, from full-stack developm
 
 ### 🔭 I’m currently working on ...
 
-####[Synthetic Persona Matrix]
+#### [Synthetic Persona Matrix]
 More Details comming soon...
 
 

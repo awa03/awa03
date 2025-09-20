@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![wakatime](https://wakatime.com/badge/user/3e4d129f-58c6-4bb3-b489-4b3a0d90742e.svg)](https://wakatime.com/@3e4d129f-58c6-4bb3-b489-4b3a0d90742e)
 <br>
 A dedicated researcher with a deep passion for data science and machine learning, demonstrated through work in
 deepfake detection and model training. Enjoys programming in C and C++, with strong technical skills and a continuous

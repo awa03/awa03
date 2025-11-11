@@ -16,13 +16,11 @@ drive for learning, showcased through diverse projects, from full-stack developm
 
 ### 🔭 I’m currently working on ...
 
-#### [Synthetic Persona Matrix]()
-More Details comming soon...
+#### [Meowlang(https://github.com/awa03/meowlang)
 
-
-#### [Computer-Science-Notes](https://github.com/awa03/Computer-Science-Notes)
-This repository is a collection of most of my notes as a computer science student. I challenged myself to create a user-friendly platform in which the notes can be viewed. In the process of creating this site, I learned Jerkyll and mark-down syntax. I have been using Obsidian for my note-taking for the last year and a half but felt as though I wanted to be able to access my notes from anywhere, without dealing with downloading the files or viewing them in GitHub (Previously FSU Notes repo). My solution was to create a static site in which the user could view the notes from. Within these notes, I have also included notes from my self-study. 
-
+My attempt at a programming language. Taking ideas from Golang, Rust, C/C++, python, and .., javascript (the good stuff dont worry). This is going to be the purr-fect fit for your next project.
+<br>
+In all seriousness this is just a passion project. I wanted to learn so I am learning. I am going to try and really develop this language. So lets just see how it goes!
 ****
 
 ### Github Statistics 

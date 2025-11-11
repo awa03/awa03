@@ -23,7 +23,7 @@ My attempt at a programming language. Taking ideas from Golang, Rust, C/C++, pyt
 ![awa03's Stats](https://github-readme-stats.vercel.app/api?username=awa03&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&width=400&height=400)
 ![awa03's Streak](https://github-readme-streak-stats.herokuapp.com/?user=awa03&theme=tokyonight&hide_border=true&width=400&height=400)
 ![awa03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awa03&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&width=400&height=400)<br>
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=transparent)
+![Leetcode Stats](https://leetcard.jacoblin.cool/AidenAll3n?theme=transparent)
 
 
 

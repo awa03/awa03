@@ -25,13 +25,12 @@ In all seriousness this is just a passion project. I wanted to learn so I am lea
 
 ### Github Statistics 
 
-![Aidens's GitHub stats](https://github-readme-stats.vercel.app/api?username=awa03&show_icons=true&theme=transparent) <br>
+![awa03's Stats](https://github-readme-stats.vercel.app/api?username=awa03&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&width=400&height=400)
+![awa03's Streak](https://github-readme-streak-stats.herokuapp.com/?user=awa03&theme=tokyonight&hide_border=true&width=400&height=400)
+![awa03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awa03&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&width=400&height=400)<br>
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=transparent)
 
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awa03&hide=javascript,html,css,aidl,batchfile,llvm,shell,powershell,makefile,cmake,java,tex,roff,ASP.NET,c&langs_count=8&weight=1&layout=compact&size_weight=0&count_weight=1&theme=transparent)<be>
 
-### Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/aidenall3n?width=495&height=200) <br>
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -16,7 +16,7 @@ drive for learning, showcased through diverse projects, from full-stack developm
 
 ### 🔭 I’m currently working on ...
 
-#### [Meowlang(https://github.com/awa03/meowlang)
+#### [Meowlang](https://github.com/awa03/meowlang)
 
 My attempt at a programming language. Taking ideas from Golang, Rust, C/C++, python, and .., javascript (the good stuff dont worry). This is going to be the purr-fect fit for your next project.
 <br>

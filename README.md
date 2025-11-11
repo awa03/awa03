@@ -1,12 +1,8 @@
-### Hi there 👋
-<br>
-A dedicated researcher with a deep passion for data science and machine learning, demonstrated through work in
-deepfake detection and model training. Enjoys programming in C and C++, with strong technical skills and a continuous
-drive for learning, showcased through diverse projects, from full-stack development to AI-driven solutions.
 
-****
 
- ## 🔗 Links
+![Black and Yellow Web Developer LinkedIn Banner](https://github.com/user-attachments/assets/767e4646-f8a8-4b5e-883f-334380a0b92c)
+
+
  <p align="left"><a href="https://medium.com/@4376340/list/my-blog-31a894d61c1c" target="_blank"><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3218650/medium-icon-md.png" alt="Blog" width="50" height="50"></a>
   <a href="https://www.linkedin.com/in/aiden-allen-a7385421a/" target="_blank"><img src="http://www.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" alt="Blog" width="50" height="50"></a>
   <a href="https://leetcode.com/aidenall3n/" target="_blank"><img src="https://i0.wp.com/turingplanet.org/wp-content/uploads/2020/05/LeetCode_logo.png?resize=400%2C400&ssl=1" alt="Blog" width="50" height="50"></a></p>
@@ -20,7 +16,6 @@ drive for learning, showcased through diverse projects, from full-stack developm
 
 My attempt at a programming language. Taking ideas from Golang, Rust, C/C++, python, and .., javascript (the good stuff dont worry). This is going to be the purr-fect fit for your next project.
 <br>
-In all seriousness this is just a passion project. I wanted to learn so I am learning. I am going to try and really develop this language. So lets just see how it goes!
 ****
 
 ### Github Statistics 

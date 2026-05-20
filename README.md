@@ -14,17 +14,15 @@
 
 #### [Meowlang](https://github.com/awa03/meowlang)
 
-My attempt at a programming language. Taking ideas from Golang, Rust, C/C++, python, and .., javascript (the good stuff dont worry). This is going to be the purr-fect fit for your next project.
+My attempt at a programming language. Taking ideas from Golang, Rust, C/C++, python, and .., javascript (the good stuff dont worry). This is going to be the purr-fect fit for your next project. Work in Progress
+<br>
+
+
+#### [MeowAPI](https://github.com/awa03/meow-api)
+
+Pure C API Library compatible with Linux. Work in Progress.
 <br>
 ****
-
-### Github Statistics 
-
-![awa03's Stats](https://github-readme-stats.vercel.app/api?username=awa03&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&width=400&height=400)
-![awa03's Streak](https://github-readme-streak-stats.herokuapp.com/?user=awa03&theme=tokyonight&hide_border=true&width=400&height=400)
-![awa03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awa03&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&width=400&height=400)<br>
-![Leetcode Stats](https://leetcard.jacoblin.cool/AidenAll3n?theme=transparent)
-
 
 
 
